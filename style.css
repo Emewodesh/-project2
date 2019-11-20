@@ -1,0 +1,254 @@
+.grid-container {
+ display: grid;
+  grid-template-columns: auto auto;
+  padding: 15px;
+
+}
+
+.grid-item2 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 0px solid rgba(0, 0, 0, 0.8);
+  padding: 100px;
+  font-size: 40px;
+  text-align: center;
+  width: 735px;
+  grid-column-gap: 30px;
+  
+  
+}
+  .grid-item3 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 0px solid rgba(0, 0, 0, 0.8);
+  padding: 100px;
+  font-size: 40px;
+  text-align: center;
+  width: 735px;
+  grid-column-gap: 30px;
+   
+}
+.grid-item4 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 100px;
+  font-size: 40px;
+  text-align: center;
+  width: 735px;
+  margin-left: 300px;
+}
+  
+.background {
+	background-image:  url("http://www.macmillandictionaryblog.com/wp-content/uploads/2011/07/global-warming-810x540.png");
+    background-position: center;
+    height: 130%;
+    width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: comic sans; 
+	
+}
+.yee {
+   font-size: 100px;
+   color: white;	
+	
+}
+
+ .grid-container2 {
+  display: grid;
+  grid-template: 1fr 6fr / 1fr 1fr;
+  height: 1000px;
+  width: 100%; 
+  border: 2px black solid;
+ }
+  .background2 {
+   font-family: courier new;	 
+ }
+ 
+.swag1 {
+    grid-column-start: 1;
+	grid-column-end: span 2;
+    font-size: 80px;
+    text-align: center;
+    border: 2px black solid;
+	padding-top: 30px;
+
+  }
+.swag2 {
+	  border: 2px black solid;
+	  background-image: url("https://publichealth.arizona.edu/sites/publichealth.arizona.edu/files/sjs2016.jpg");
+	  background-size: cover;
+	  background-repeat: no-repeat;
+  }
+.swag3 {
+	  border: 2px black solid;
+	  font-size: 30px;
+  }
+.background3 {
+      font-family: courier new; 	
+}
+ 
+.grid-container3 {
+   display: grid;
+   grid-template: / 7fr 7fr ; 
+   height: 700px;
+   width: 100%;
+   border: 2px black solid;
+}
+.yolo1 {
+	  grid-column-start: 1;
+	  grid-column-end: span 2;
+      border: 2px black solid; 
+	
+}
+ .yolo2 {
+	  grid-column-start: 1;
+	  grid-column-end: span 2;
+      border: 2px black solid; 
+	
+}
+  .yolo3 {
+      border: 2px black solid; 
+	  padding-top: 200px; 
+}
+ .yolo4 {
+      border: 2px black solid; 
+	  padding-top: 200px; 
+}
+.background4 {
+      font-family: courier new; 	
+}
+ 
+ .grid-container4 {
+  display: grid;
+  grid-template: 1fr 6fr / 1fr 1fr;
+  height: 1000px;
+  width: 100%; 
+  border: 2px black solid;
+ }
+ 
+.yeet1 {
+	grid-column-start: 1;
+	grid-column-end: span 2;
+    font-size: 40px;
+    text-align: center;
+    border: 2px black solid;
+	padding-top: 30px;
+  }
+ .yeet2 {
+	  border: 2px black solid;
+	  grid-column-gap: 30px;
+	  
+  }
+  
+.yeet3 {
+	  border: 2px black solid;
+	  grid-column-gap: 30px;
+
+  }
+  
+.yeet4 {
+	  grid-column-start: 1;
+	  grid-column-end: span 2;
+      font-size: 40px;
+      text-align: center;
+      border: 2px black solid;
+	  padding-top: 30px;  
+}
+ .background5 {
+      font-family: courier new; 	
+}
+ 
+.grid-container5 {
+     display: grid; 
+     height: 900px; 
+	 width: 100%;
+     border: 2px black solid;   	 
+}
+.sister1 {
+    border: 2px black solid; 	
+	grid-column-start: 1;
+	grid-column-end; span 2;
+}
+
+.sister2 {
+    border: 2px black solid; 	
+	grid-column-start: 1;
+	grid-column-end; span 2;
+	padding: 200px;
+}
+
+.sister3 {
+    border: 2px black solid; 	
+	grid-column-start: 1;
+	grid-column-end; span 2;
+}
+
+.background6 {
+      font-family: platino; 	
+}
+ 
+.gridcontainer6 {
+   display: grid;
+   height: 500px 
+   width: 100%;
+  grid-template-columns: 1fr 1fr;
+  }
+  
+.join {
+   border: 2px black solid;
+   grid-column-gap: 10px;
+   width: 100%;
+   height: 500px;   
+}
+
+.join2 {
+   border: 2px black solid;	
+   grid-column-gap: 10px;     
+   width: 100%;
+   height: 500px;
+}
+  
+.gridcontainer7 {
+   display: grid;
+   height: 500px;
+   width: 100%;
+   border: 2px black solid;
+   grid-template: 1fr 1fr;
+}
+
+.join3 {
+	border: 2px black solid;
+}
+
+.join4 {
+	border: 2px black solid; 
+}
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
